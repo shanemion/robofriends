@@ -1,0 +1,9 @@
+@import url('https://fonts.cdnfonts.com/css/graffiti-font');
+
+h1 {
+    font-family: 'Graffiti Font', cursive;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
